@@ -106,5 +106,35 @@
     "TimeStamp": "2019-01-15 18:37:30",
     "UserName": "oddgang",
     "Comment": null
+  },
+  {
+    "UserId": "usr_ee66194a-ba6a-4d8b-abf1-ff8c5262d729",
+    "TimeStamp": "2019-01-16 06:58:41",
+    "UserName": "heckersmanns",
+    "Comment": "Userbotting"
+  },
+  {
+    "UserId": "usr_8eb7d854-fb5c-4581-8127-c0c105f32aa5",
+    "TimeStamp": "2019-01-16 07:40:32",
+    "UserName": "hackermann",
+    "Comment": "Userbotting"
+  },
+  {
+    "UserId": "usr_77683cce-0465-49f2-a11d-ca7927d160a6",
+    "TimeStamp": "2019-01-16 07:49:16",
+    "UserName": "gizmo",
+    "Comment": "Userbotting"
+  },
+  {
+    "UserId": "usr_e25f6bf9-3d36-4a47-8382-cb4535e62932",
+    "TimeStamp": "2019-01-16 07:57:45",
+    "UserName": "PhotonPlayer__0",
+    "Comment": "Userbotting"
+  },
+  {
+    "UserId": "usr_bb3a539f-aa88-4a87-b5e2-d523621a6b57",
+    "TimeStamp": "2019-01-16 08:03:14",
+    "UserName": "IC",
+    "Comment": "Userbotting"
   }
 ]
